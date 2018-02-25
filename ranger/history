@@ -1,0 +1,18 @@
+open_with open
+wq
+rm -rf simple_blog
+! rm-rf simple_blog
+ !rm-rf simple_blog
+ ! rm-rf simple_blog
+shell rm -rf simple_blog
+shell rails new simple_blog
+shell bundle install
+shell rails server
+shell 
+shell rails g controller Posts
+ls
+shell ls
+
+delete vimrc
+shell git init
+shell git status
